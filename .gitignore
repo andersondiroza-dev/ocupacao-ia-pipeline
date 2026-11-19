@@ -1,0 +1,10 @@
+# Ambiente Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Arquivo compactado baixado da UCI (os arquivos extraídos ficam em data/raw)
+data/*.zip
+
+# Sistema
+.DS_Store
